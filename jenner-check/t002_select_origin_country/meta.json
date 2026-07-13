@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_select_origin_country",
+  "source_file": "Create new column with the SELECT statement.sas",
+  "source_blob_sha": "98a490bc8dc6097a0c6de5ef367487dfa25ece18",
+  "source_commit": "bbb66da2eb210a31702b422c6b2d0787590a56ee",
+  "notes": "Two DATA steps on sashelp.cars using SELECT (Make) / WHEN / OTHERWISE to derive Origin_Country, then RENAME Origin to Origin_Region. Second step demonstrates the multi-value WHEN list form. Shipped byte-identical; autoexec only sets options obs=100."
+}

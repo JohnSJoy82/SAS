@@ -1,0 +1,13 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA cars_new
+
+
+NOTE: Read 2 rows from sashelp.cars.
+NOTE: Wrote cars_new (2 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to First 10 Rows of CARS_NEW.
+NOTE: PROC PRINT data=cars_new
+
+NOTE: PROC PRINT completed: 2 observations printed, 6 variables

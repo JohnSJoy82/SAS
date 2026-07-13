@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-13T04:00:00Z",
+  "_captured_run_id": "r_188f885ebe6341259907f4956cb167ee",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 8 rows from work.cars.",
+    "NOTE: Wrote Audi (8 rows, 4 columns).",
+    "NOTE: Option TITLE changed to Audi Series derived from Model.",
+    "NOTE: PROC PRINT completed: 8 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

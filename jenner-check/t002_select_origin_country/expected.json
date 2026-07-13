@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-13T04:00:00Z",
+  "_captured_run_id": "r_a160808c494c4567b3d4a4838d668332",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA work.cars_orig_country",
+    "NOTE: Read 12 rows from sashelp.cars.",
+    "NOTE: Wrote work.cars_orig_country (12 rows, 4 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
