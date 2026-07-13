@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_compute_kmh",
+  "source_file": "Compute new columns with expressions and functions.sas",
+  "source_blob_sha": "4e95c98285a5c6a257a70f87737ac3563dfce92b",
+  "source_commit": "bbb66da2eb210a31702b422c6b2d0787590a56ee",
+  "notes": "DATA step on sashelp.cars filtered to Origin=Europe: computes KmH_Highway/KmH_City via MPG*1.609344, KmH_Average via mean(), applies a 4.1 format to all KmH: columns, keeps with a colon selector, then PROC PRINT. Shipped byte-identical; autoexec only sets options obs=100."
+}

@@ -1,0 +1,13 @@
+Audi Series derived from Model                                             
+
+
+  Obs  Make                   Model  Series   MSRP
+-----  ----  ----------------------  ------  -----
+    1  Audi  A4_1.8T_4dr             A       25940
+    2  Audi  A4_3.0_4dr              A       31840
+    3  Audi  A6_3.0_4dr              A       36640
+    4  Audi  A6_3.0_Avant_Quattro    A       40840
+    5  Audi  A8_L_Quattro_4dr        A       69190
+    6  Audi  S4_Quattro_4dr          Other   48040
+    7  Audi  TT_1.8_convertible_2dr  Other   35940
+    8  Audi  RS_6_4dr                Other   84600

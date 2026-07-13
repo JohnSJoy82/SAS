@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_series_substr",
+  "source_file": "SAS2.sas",
+  "source_blob_sha": "4abf2fbae7b9df27c109513574ccdc1408479ab5",
+  "source_commit": "bbb66da2eb210a31702b422c6b2d0787590a56ee",
+  "notes": "Series-derivation DATA step from SAS2.sas: length Series $5, substr(left(Model),1,1) into SeriesCode, IF SeriesCode=\"A\" then Series=\"A\" else \"Other\". Jenner's sashelp.cars sample carries no Audi rows, so the source is read from a small work.cars built in autoexec with Audi models; the substr()/IF-THEN logic is unchanged. Added a trailing PROC PRINT so the derived Series is visible."
+}

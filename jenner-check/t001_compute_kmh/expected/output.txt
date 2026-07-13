@@ -1,0 +1,7 @@
+First 10 Rows of CARS_NEW                                                
+
+
+  Obs  Make      Model   Type  KmH_Highway  KmH_City  KmH_Average
+-----  ----  ---------  -----  -----------  --------  -----------
+    1  BMW   325Ci 2dr  Sedan         46.7      32.2         39.4
+    2  BMW   X5 4.4i    SUV           35.4      25.7         30.6
